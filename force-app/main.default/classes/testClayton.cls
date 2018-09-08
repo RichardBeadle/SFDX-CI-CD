@@ -4,4 +4,8 @@ public with sharing class testClayton {
             console.log('uh oh');
         }
     }
+    
+    public badclass name() {
+        console.log('no logic here');
+    }
 }
