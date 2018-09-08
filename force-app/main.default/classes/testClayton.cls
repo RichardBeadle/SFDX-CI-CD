@@ -6,6 +6,7 @@ public with sharing class testClayton {
     }
     
     public badclass name() {
-        console.log('no logic here');
+        Account a = new Account();
+        a.recordtype = 5000R000004aVFA;
     }
 }
